@@ -30,3 +30,9 @@ With any new repo or cheat sheet being released.
 [basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14472913/basic-commands-part1.pdf)
 
 ![Snapshot_2024-03-02_15-44-00](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/d2a9df88-3efd-4bd9-ad4e-6fe6b07a889f)
+
+#### CHEAT SHEET (#2)
+[basic-commands-part2.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14496434/basic-commands-part2.pdf)
+
+![Snapshot_2024-03-05_14-03-47 (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/7ef71663-441e-4c77-b059-c1f7b7608793)
+
