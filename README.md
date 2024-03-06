@@ -27,7 +27,8 @@ We will update our blog : https://medium.com/@theulinuxs
 With any new repo or cheat sheet being released.
  
 #### CHEAT SHEET (#1)
-[basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14472913/basic-commands-part1.pdf)
+[basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14503877/basic-commands-part1.pdf)
+
 
 ![Snapshot_2024-03-02_15-44-00](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/d2a9df88-3efd-4bd9-ad4e-6fe6b07a889f)
 
