@@ -27,13 +27,14 @@ We will update our blog : https://medium.com/@theulinuxs
 With any new repo or cheat sheet being released.
  
 #### CHEAT SHEET (#1)
-[basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14503877/basic-commands-part1.pdf)
+[basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14539639/basic-commands-part1.pdf)
 
-![Snapshot_2024-03-06_02-40-37 (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/6c592ba5-836d-4037-9e0b-f40e043a0833)
+![Snapshot_2024-03-08_14-38-24 (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/0ff1789e-a981-41b0-8ab9-60f66ca83dff)
 
 
 #### CHEAT SHEET (#2)
-[basic-commands-part2.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14496434/basic-commands-part2.pdf)
+[basic-commands-part2.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14539662/basic-commands-part2.pdf)
 
-![Snapshot_2024-03-05_14-03-47 (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/7ef71663-441e-4c77-b059-c1f7b7608793)
+![Snapshot_2024-03-08_14-38-42 (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/b1af9af3-cb3d-472c-9e18-4781b0e7a3ae)
+
 
