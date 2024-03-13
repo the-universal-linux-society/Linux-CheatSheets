@@ -37,4 +37,9 @@ With any new repo or cheat sheet being released.
 
 ![Snapshot_2024-03-08_14-38-42 (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/b1af9af3-cb3d-472c-9e18-4781b0e7a3ae)
 
+#### CHEAT SHEET (#3) NMAP COMMANDS (#1)
+[nmap-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14587974/nmap-commands-part1.pdf)
+
+![nmap (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/1ddd43fb-2d50-477d-908c-50f31c863d2f)
+
 
