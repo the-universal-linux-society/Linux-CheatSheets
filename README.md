@@ -42,4 +42,8 @@ With any new repo or cheat sheet being released.
 
 ![nmap (1)](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/1ddd43fb-2d50-477d-908c-50f31c863d2f)
 
+#### CHEATSCRIPT (interactive cheatsheet bash-script)
+(added to the repo)
+![cheatsheet](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/c87ffda6-bd01-4e8a-8d52-14a561dfe883)
+
 
