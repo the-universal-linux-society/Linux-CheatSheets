@@ -48,7 +48,17 @@ With any new repo or cheat sheet being released.
 ![sysadmin-commands](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/b786f2ce-5cd0-499d-8f30-df80ff9f0c16)
 
 #### CHEATSCRIPT (interactive cheatsheet bash-script)
-(added to the repo)
+(added to the repo "cheat.sh")
 ![cheatsheet](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/c87ffda6-bd01-4e8a-8d52-14a561dfe883)
+
+Alias:
+We didn't configure it in the script, but you could create an alias for the script within the .bashrc file.
+
+alias cheat="cd /path/to/script && ./cheat.sh"
+
+The GIF below gives a little demo of it in action.
+
+Showing how much easier & quicker it is to get access to the cheatsheet.
+![cheat-alias](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/4a8ef3d5-88c1-4d2e-ae57-a8c016af7483)
 
 
