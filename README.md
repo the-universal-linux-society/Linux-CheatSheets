@@ -61,4 +61,12 @@ The GIF below gives a little demo of it in action.
 Showing how much easier & quicker it is to get access to the cheatsheet.
 ![cheat-alias](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/4a8ef3d5-88c1-4d2e-ae57-a8c016af7483)
 
+#### NEOFETCH CHEAT SHEET 
+Below are some customizations that you do with your 'neofetch' configuration files.
+
+There is many more options that you set, add or remove. 
+
+This is just some changes you can make, so that your neofetch stands out.
+[neofetch.drawio.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14825372/neofetch.drawio.pdf)
+![neofetch drawio](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/fc3bd9f1-8fa7-417b-af47-5faf3cc3cc76)
 
