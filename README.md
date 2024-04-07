@@ -25,6 +25,13 @@ More cheatsheets will be added overtime.
 
 We will update our blog : https://medium.com/@theulinuxs 
 With any new repo or cheat sheet being released.
+
+#### INTRODUCTION TO CYBERSECURITY/ETHICAL HACKING
+[introduction-to-cybersec.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14898867/introduction-to-cybersec.pdf)
+
+![Screenshot from 2024-04-07 21-22-02](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/cc531129-307b-4674-94d9-3d4371867ef9)
+![Screenshot from 2024-04-07 21-22-14](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/d90c47d8-0c29-4512-a846-d864d32c874c)
+
  
 #### CHEAT SHEET (#1)
 [basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14539639/basic-commands-part1.pdf)
