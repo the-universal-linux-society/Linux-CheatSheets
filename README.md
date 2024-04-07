@@ -27,6 +27,7 @@ We will update our blog : https://medium.com/@theulinuxs
 With any new repo or cheat sheet being released.
 
 #### INTRODUCTION TO CYBERSECURITY/ETHICAL HACKING
+Written by vortex4242
 [introduction-to-cybersec.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14898867/introduction-to-cybersec.pdf)
 
 ![Screenshot from 2024-04-07 21-22-02](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/cc531129-307b-4674-94d9-3d4371867ef9)
