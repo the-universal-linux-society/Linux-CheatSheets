@@ -33,6 +33,12 @@ Written by vortex4242
 ![Screenshot from 2024-04-07 21-22-02](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/cc531129-307b-4674-94d9-3d4371867ef9)
 ![Screenshot from 2024-04-07 21-22-14](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/d90c47d8-0c29-4512-a846-d864d32c874c)
 
+#### NANO EDITOR CHEATSHEET
+[nano-editor.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14920310/nano-editor.pdf)
+
+![Screenshot from 2024-04-09 15-55-53](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/f121a787-2ffc-4aae-8895-0dba0455d620)
+
+
  
 #### CHEAT SHEET (#1)
 [basic-commands-part1.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14539639/basic-commands-part1.pdf)
