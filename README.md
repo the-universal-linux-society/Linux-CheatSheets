@@ -62,11 +62,12 @@ Written by vortex4242
 ![sysadmin-commands](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/b786f2ce-5cd0-499d-8f30-df80ff9f0c16)
 
 #### CHEAT SHEET (#6) PHP COMMANDS (#1)
+[php-commands.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14982420/php-commands.pdf)
 
-[php-commands.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/14981941/php-commands.pdf)
 
 ![Screenshot from 2024-04-15 17-27-17](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/dc1db4ee-c5c6-480b-bdd3-77ab0468c049)
-![Screenshot from 2024-04-15 17-27-23](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/a09750a8-9b0f-465f-82f2-8b8a239af0e3)
+![Screenshot from 2024-04-15 18-22-07](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/0dbb56c2-d27b-4ba0-8894-56ec16294fe6)
+
 
 
 
