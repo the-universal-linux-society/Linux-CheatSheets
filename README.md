@@ -66,24 +66,18 @@ Written by vortex4242
 
 
 ![Screenshot from 2024-04-15 17-27-17](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/dc1db4ee-c5c6-480b-bdd3-77ab0468c049)
+
 ![Screenshot from 2024-04-15 18-22-07](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/0dbb56c2-d27b-4ba0-8894-56ec16294fe6)
 
+#### CHEAT SHEET (#7) BASIC DOCKER COMMANDS (#1)
+[basic-docker-commands.pdf](https://github.com/the-universal-linux-society/Linux-CheatSheets/files/15282681/basic-docker-commands.pdf)
 
-
+![docker](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/37626976-48bd-41c7-98b9-a312d4a8089a)
 
 #### CHEATSCRIPT (interactive cheatsheet bash-script)
 (added to the repo "cheat.sh")
 ![cheatsheet](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/c87ffda6-bd01-4e8a-8d52-14a561dfe883)
 
-Alias:
-We didn't configure it in the script, but you could create an alias for the script within the .bashrc file.
-
-alias cheat="cd /path/to/script && ./cheat.sh"
-
-The GIF below gives a little demo of it in action.
-
-Showing how much easier & quicker it is to get access to the cheatsheet.
-![cheat-alias](https://github.com/the-universal-linux-society/Linux-CheatSheets/assets/161962528/4a8ef3d5-88c1-4d2e-ae57-a8c016af7483)
 
 #### NEOFETCH CHEAT SHEET 
 Below are some customizations that you do with your 'neofetch' configuration files.
